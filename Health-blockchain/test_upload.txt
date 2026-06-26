@@ -1,0 +1,6 @@
+This is a test medical record file for Alice Thompson.
+Date: 2025-01-05
+Patient: Alice Thompson
+Diagnosis: Annual checkup - All normal
+Treatment: Continue current medication
+Next visit: 2025-04-05
